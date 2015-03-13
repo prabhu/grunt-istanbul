@@ -38,7 +38,7 @@
   "dependencies": {
     "chalk": "~0.5.1",
     "istanbul" : "~0.2.3",
-    "nue": "0.7.0-dev"
+    "nue": "git://github.com/prabhu/nue#0.7.1"
   },
   "peerDependencies": {
     "grunt": "~0.4.5"
